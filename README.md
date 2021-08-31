@@ -19,4 +19,4 @@ Unit6 [Ensemble Learning](https://github.com/ericshiao/IMLP343/tree/main/Unit06)
 
 Unit7 [Clustering](https://github.com/ericshiao/IMLP343/tree/main/Unit07)
 
-Unit8 [Dimensional reduction]()
+Unit8 [Dimensional reduction](https://github.com/ericshiao/IMLP343/tree/main/Unit08)
