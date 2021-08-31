@@ -15,3 +15,8 @@ Unit5[Classification](https://github.com/ericshiao/IMLP343/tree/main/Unit05)
 Unit5_2[Classification02](https://github.com/ericshiao/IMLP343/tree/main/Unit05_2)
     -Unit5_2[Classification_SVM實戰](https://github.com/ericshiao/IMLP343/blob/main/Unit05_2/SVM%E5%AF%A6%E6%88%B0.ipynb)
 
+Unit6 [Ensemble Learning](https://github.com/ericshiao/IMLP343/tree/main/Unit06)
+
+Unit7 [Clustering]()
+
+Unit8 [Dimensional reduction]()
